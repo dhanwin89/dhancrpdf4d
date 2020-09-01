@@ -1,0 +1,37 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CheckImageSize" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConstantConditionalExpressionJS" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="ConstantIfStatementJS" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="CssMissingSemicolon" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="DebuggerStatementJS" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="DefaultNotLastCaseInSwitchJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DocumentWriteJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="FallThroughInSwitchStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="FunctionNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_regex" value="[a-z_][A-Za-z]*" />
+      <option name="m_minLength" value="4" />
+      <option name="m_maxLength" value="32" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTarget" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="InconsistentLineSeparators" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JSClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSLastCommaInArrayLiteral" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JSLastCommaInObjectLiteral" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JSValidateJSDoc" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_regex" value="[a-z][A-Za-z]*" />
+      <option name="m_minLength" value="1" />
+      <option name="m_maxLength" value="32" />
+    </inspection_tool>
+    <inspection_tool class="MagicNumberJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NegatedIfStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="NonBlockStatementBodyJS" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="ProblematicWhitespace" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="TodoComment" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnterminatedStatementJS" enabled="true" level="ERROR" enabled_by_default="true">
+      <option name="ignoreSemicolonAtEndOfBlock" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
