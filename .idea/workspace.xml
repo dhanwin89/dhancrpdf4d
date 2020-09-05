@@ -1,12 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d899f647-ac98-4ae2-abc4-5348a30d6175" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gu4Ws2QfihHjGXEf5Z8JDEqPJm" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d899f647-ac98-4ae2-abc4-5348a30d6175" name="Default Changelist" comment="" />
+      <created>1599208630006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599208630006</updated>
+      <workItem from="1599208633163" duration="358000" />
+      <workItem from="1599209255804" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="273" y="0" key="CommitChangelistDialog2" timestamp="1598951219417">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="273" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598951219417" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1599209268802">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599209268802" />
+    <state x="436" y="220" key="git4idea.rebase.GitRebaseDialog" timestamp="1599286490725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="436" y="220" key="git4idea.rebase.GitRebaseDialog/0.0.1280.680@0.0.1280.680" timestamp="1599286490725" />
   </component>
 </project>
